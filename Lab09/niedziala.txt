@@ -1,0 +1,1 @@
+niektóre trójkąty (linie zaczynające się od f) miały więcej niż 3 wartości, nie umiałem sobie z tym poradzić. Podejrzewam że dlatego trójkąty nie są ze sobą dobrze połączone.
